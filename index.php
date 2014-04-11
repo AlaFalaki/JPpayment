@@ -72,9 +72,9 @@ function WC_JP() {
 			echo '</table>';
 			echo '
 				<div>
-					<a href="http://blog.AlaFalaki.ir/">صفحه رسمی پلاگین + مستندات .</a><br />
-					<a href="https://github.com/AlaFalaki" target="_blank">حمایت از پروژه در GitHub .</a><br />
-					<a href="https://twitter.com" target="_blank">من را در تویتر دنبال کنید .</a>
+					<a href="http://blog.alafalaki.ir/%D9%BE%D9%84%D8%A7%DA%AF%DB%8C%D9%86-jppayment-%D8%A8%D8%B1%D8%A7%DB%8C-woocommerce-%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87-%D8%B3%D8%A7%D8%B2/">صفحه رسمی پلاگین + مستندات .</a><br />
+					<a href="https://github.com/AlaFalaki/JPpayment" target="_blank">حمایت از پروژه در GitHub .</a><br />
+					<a href="https://twitter.com/AlaFalaki" target="_blank">من را در تویتر دنبال کنید .</a>
 				</div>
 			';
 		}
