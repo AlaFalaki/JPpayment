@@ -21,4 +21,4 @@ Official Page
 =========
 
 You can see updates and infos about this plugin in my website :
-<a href="http://blog.alafalaki.ir/پلاگین-jppayment-برای-woocommerce-فروشگاه-ساز/" target="_blank">http://blog.AlaFalaki.ir</a>
+http://blog.alafalaki.ir/پلاگین-jppayment-برای-woocommerce-فروشگاه-ساز/
