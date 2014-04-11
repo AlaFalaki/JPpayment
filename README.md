@@ -20,5 +20,5 @@ Requirements
 Official Page
 =========
 
-You can see updates and infos about this plugin in my website :
+You can see updates and infos about this plugin in my website :<br />
 http://blog.alafalaki.ir/پلاگین-jppayment-برای-woocommerce-فروشگاه-ساز/
