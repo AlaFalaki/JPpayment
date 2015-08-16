@@ -19,9 +19,9 @@ Requirements
 Bug fixes
 =========
 
--fixes woocommerce 2.4.4 API bug
--it will display succesfull buy message.
--you can now choose wich page will be showing your message.
+- fixes woocommerce 2.4.4 API bug
+- it will display succesfull buy message.
+- you can now choose wich page will be showing your message.
 
 Official Page
 =========
