@@ -3,7 +3,7 @@
  * Plugin Name: درگاه جهان پی ووکامرس همراه با تایید سفارش
  * Plugin URI: http://http://blog.alafalaki.ir/%D9%BE%D9%84%D8%A7%DA%AF%DB%8C%D9%86-jppayment-%D8%A8%D8%B1%D8%A7%DB%8C-woocommerce-%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87-%D8%B3%D8%A7%D8%B2/
  * Description: درگاه کامل جهان پی برای سایت های فروش فایل
- * Version: 2.0
+ * Version: 2.2
  * Author: Ala Alam Falaki
  * Author URI: http://AlaFalaki.ir
  * 
@@ -214,7 +214,7 @@ function WC_JP() {
 }
 
 
-if($_GET['message']!='')
+if( isset($_GET['message']) )
 {
 	add_action('the_content', 'showMessage');
 
