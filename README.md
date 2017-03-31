@@ -1,3 +1,7 @@
+Retired Repository!
+=========
+This plugin was meant to work with JahanPay website. As the website stopped working, will not maintain this plugin any more.
+
 JPpayment
 =========
 
